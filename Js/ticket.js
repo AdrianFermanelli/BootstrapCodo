@@ -17,6 +17,7 @@ function resumen() {
     total.value = "Total a Pagar: $" + num;
 }
 
+/* borrar */
 function borrar() {
     let cantidad = document.getElementById("cantidadTicket");
     cantidad = "";
